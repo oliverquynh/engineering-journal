@@ -19,7 +19,7 @@ My learning and research are structured around four operational pillars:
 | Task | Topic | Category | Status |
 | :--- | :--- | :--- | :--- |
 | `01` | [MySQL Database Indexing](./01-mysql-index) | Databases | ⏳ TODO |
-| `02` | [Process & Threads Fundamentals](./02-process-and-threads) | Core Systems | ✅ In progress |
+| `02` | [Process & Threads Fundamentals](./02-process-and-threads) | Core Systems | ✅ Done |
 
 ---
 
